@@ -1,0 +1,21 @@
+body {
+    font-family: "Vesper Libre";
+    color: #1a1a1a;
+    line-height: 1.5;
+    font: 1.25rem;
+}
+
+image {
+    width: 100%;
+}
+
+a.figcaption, .article-category, .sub-title, .author, .time {
+    font-family: "Open Sans";
+}
+
+a.article-category {
+    text-transform: capitalize;
+    font-size: .85rem;
+    border-bottom: 2px solid #ff3530;
+    display: inline;
+}
