@@ -36,3 +36,25 @@ a.figcaption {
     color: #757575;
     font-style: italic;
 }
+
+a:link {
+    color: #1a1a1a;
+    text-decoration: underline;
+}
+a.hover {
+    text-decoration: none;
+    color: #ff3530;
+}
+
+a.author, .time {
+    font-size: .85rem;
+}
+
+a.author {
+    margin-bottom: 0;
+}
+
+figure {
+    margin: 1.25rem 0;
+}
+
